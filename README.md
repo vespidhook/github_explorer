@@ -6,6 +6,8 @@
 <p align="center">O projeto consome a <strong>API</strong> do <strong>Github</strong> buscando repositóris e suas informações.</p>
 <p align="center">
 
+## ["Esperimente a aplicação"](github-explorer-bruno.netlify.app)
+
 ## :round_pushpin: Instalando o projeto
 
 1 - <strong>git clone https://github.com/vespidhook/github_explorer</strong> | para baixar o repositório <br/>
